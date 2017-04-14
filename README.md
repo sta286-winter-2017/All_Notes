@@ -1,1 +1,1 @@
-# All_Notes
+All lecture notes in one file, with full slides only. (no "appear" animations)
